@@ -1,0 +1,11 @@
+Question: Are average scores for hospital quality or procedural variability correlated with patient survey responses?
+
+Approach:
+To find the correlation between hospital quality or procedural variability correlated with patient survey responses, I first created a aggregating the average score, score variance, and survey base score. Then, I calculated the correlation between the average score and score variance.
+
+Conclusion:
+I found that there is a weak correlation between patient perception and hospital quality or variability. It can be inferred that there is a slightly lower patient perception with a higher variability of quality scores for various hospital quality measures.
+
+Output:
+R between ave score and survey | R between score variance and survey
+-0.25569687667255797	-0.31472385050507456

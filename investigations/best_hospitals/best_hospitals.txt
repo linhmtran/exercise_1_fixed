@@ -1,0 +1,21 @@
+Question: What hospitals are models of high-quality care? That is, which hospitals have the most consistently high scores for a variety of procedures?
+
+Approach:
+In order to understand which hospitals represent high quality care, we want to define 'high' score for quality. I assume that quality is measured by the measure score carried out for each hospital (and scoring system is the same for all measures). Given this assumption, I find the top quality hospitals by looking at the highest average score from effective care measures.
+
+Conclusion:
+
+Below are the top 10 hospitals with the highest average measure scores.
+
+Output:
+hospital_name | Ave Measure Score
+HOSPITAL UNIVERSITARIO DR RUIZ ARNAU | 643.5
+HOSPITAL SAN FRANCISCO | 573.3333333333334
+HOSPITAL PAVIA SANTURCE | 490.6666666666667
+HOSPITAL PAVIA HATO REY, INC | 382.0
+HOSPITAL DR SUSONI INC | 367.25
+HOSPITAL DR CAYETANO COLL Y TOSTE | 363.6666666666667
+BELLA VISTA HOSPITAL | 327.0
+HOSPITAL DE LA CONCEPCION | 326.3333333333333
+HOSPITAL MENONITA DE CAYEY | 306.25
+HOSP COMUNITARIO BUEN SAMARITANO | 297.3333333333333

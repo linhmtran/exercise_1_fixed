@@ -1,0 +1,20 @@
+Question: What states are models of high-quality care?
+
+Approach:
+Using the definition of quality care as the average score of measures in effective care, I query for that score by state. I group the scores by state and find the top 10 states.
+
+Conclusion:
+
+Below are the top 10 state with highest average measure scores:
+
+State | Ave Measure Score
+PR | 227.59230769230768
+GU | 142.4
+VI | 128.0
+DC | 114.96875
+MD | 100.62587412587412
+NY | 96.6027972027972
+DE | 95.67441860465117
+CA | 95.44893111638955
+RI | 91.8157894736842
+MA | 91.37214885954381

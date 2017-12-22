@@ -1,0 +1,10 @@
+DROP TABLE hospitals_raw;
+DROP TABLE hospitals;
+DROP TABLE survey_responses_raw;
+DROP TABLE survey_responses;
+DROP TABLE measures_raw;
+DROP TABLE measures;
+DROP TABLE effective_care_raw;
+DROP TABLE effective_care;
+DROP TABLE complications_raw;
+DROP TABLE complications;

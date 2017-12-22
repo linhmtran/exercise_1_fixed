@@ -1,0 +1,22 @@
+Question: Which procedures have the greatest variability between hospitals?
+
+Approach:
+I investigated two measure types: effective care and complications. I queried the top 5 measures of effective care across hospitals based on variance of score. I then queried the top 5 measures of complications across hospitals based on score variance and range of lower and upper estimate.
+
+Conclusion:
+
+Below are the Effective Care Measures and Complications Measures with the highest variabilities across hospitals:
+
+Measure Name | effective care score Variance
+ED1 | 10813.599074091115
+ED2 | 4243.498051480819
+Median Time to Transfer to Another Facility for Acute Coronary Intervention	| 1789.7999947152844
+OP 18 | 1768.3026359365938
+Improvement in Patient’s Visual Function within 90 Days Following Cataract Surgery | 892.2280521262002
+
+Measure ID | complications score variance
+Deaths among Patients with Serious Treatable Complications after Surgery | 188.84797349514764
+Postoperative Respiratory Failure Rate | 13.816156091827063
+Pneumonia (PN) 30-Day Mortality Rate | 3.8610000511974274
+Death rate for stroke patients | 2.5681324289219165
+Heart failure (HF) 30-Day Mortality Rate | 2.4987184238395264
